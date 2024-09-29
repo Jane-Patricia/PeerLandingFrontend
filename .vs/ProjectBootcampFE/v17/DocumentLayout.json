@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\borrower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\borrower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\borrower\\loanhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\borrower\\loanhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\wwwroot\\js\\lender.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\wwwroot\\js\\lender.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\wwwroot\\js\\borrower.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\wwwroot\\js\\borrower.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\api\\apilendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\api\\apilendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\wwwroot\\js\\mstuser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\wwwroot\\js\\mstuser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\api\\apimstusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\api\\apimstusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\dto\\req\\reqaccloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\dto\\req\\reqaccloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\dto\\req\\reqtrnfunding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\dto\\req\\reqtrnfunding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\lender\\historyloan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\lender\\historyloan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\api\\apiborrowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\api\\apiborrowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\api\\apilogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\api\\apilogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\borrowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\borrowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\controllers\\lendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\controllers\\lendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\lender\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\lender\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\views\\lender\\masterloan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\views\\lender\\masterloan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\dto\\req\\reqaddloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\dto\\req\\reqaddloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|d:\\magang\\training_dotnet\\projectbootcampfe\\peerlandingfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21699F1D-50A5-46C9-93C7-78C81C46892B}|PeerLandingFE\\PeerLandingFE.csproj|solutionrelative:peerlandingfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lender.js",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\lender.js",
+              "RelativeDocumentMoniker": "PeerLandingFE\\wwwroot\\js\\lender.js",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\lender.js",
+              "RelativeToolTip": "PeerLandingFE\\wwwroot\\js\\lender.js",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAiwCIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-27T17:10:52.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiLenderController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiLenderController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\api\\ApiLenderController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiLenderController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\api\\ApiLenderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:25:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:27:53.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Borrower\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Borrower\\Index.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Borrower\\Index.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Borrower\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T21:07:25.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "borrower.js",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\borrower.js",
+              "RelativeDocumentMoniker": "PeerLandingFE\\wwwroot\\js\\borrower.js",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\borrower.js",
+              "RelativeToolTip": "PeerLandingFE\\wwwroot\\js\\borrower.js",
+              "ViewState": "AgIAALQAAAAAAAAAAAAmwMIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T15:45:50.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanHistory.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Borrower\\LoanHistory.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Borrower\\LoanHistory.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Borrower\\LoanHistory.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Borrower\\LoanHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:35:03.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:30:31.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T17:27:52.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:27:39.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReqAccLoan.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\DTO\\Req\\ReqAccLoan.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\DTO\\Req\\ReqAccLoan.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\DTO\\Req\\ReqAccLoan.cs",
+              "RelativeToolTip": "PeerLandingFE\\DTO\\Req\\ReqAccLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:19:38.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mstUser.js",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\mstUser.js",
+              "RelativeDocumentMoniker": "PeerLandingFE\\wwwroot\\js\\mstUser.js",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\mstUser.js",
+              "RelativeToolTip": "PeerLandingFE\\wwwroot\\js\\mstUser.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-28T21:29:15.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiMstUserController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\api\\ApiMstUserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:38:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReqTrnFunding.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\DTO\\Req\\ReqTrnFunding.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\DTO\\Req\\ReqTrnFunding.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\DTO\\Req\\ReqTrnFunding.cs",
+              "RelativeToolTip": "PeerLandingFE\\DTO\\Req\\ReqTrnFunding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:39:30.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistoryLoan.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Lender\\HistoryLoan.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Lender\\HistoryLoan.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Lender\\HistoryLoan.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Lender\\HistoryLoan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:35:05.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiBorrowerController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiBorrowerController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\api\\ApiBorrowerController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiBorrowerController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\api\\ApiBorrowerController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:24:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiLoginController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\api\\ApiLoginController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:38:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BorrowerController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\BorrowerController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\BorrowerController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\BorrowerController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\BorrowerController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:39:24.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.js",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "PeerLandingFE\\wwwroot\\js\\login.js",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\wwwroot\\js\\login.js",
+              "RelativeToolTip": "PeerLandingFE\\wwwroot\\js\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-27T13:48:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LenderController.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\LenderController.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Controllers\\LenderController.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Controllers\\LenderController.cs",
+              "RelativeToolTip": "PeerLandingFE\\Controllers\\LenderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:39:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Lender\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Lender\\Index.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Lender\\Index.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Lender\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T21:07:31.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MasterLoan.cshtml",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Lender\\MasterLoan.cshtml",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Views\\Lender\\MasterLoan.cshtml",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Views\\Lender\\MasterLoan.cshtml",
+              "RelativeToolTip": "PeerLandingFE\\Views\\Lender\\MasterLoan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T21:58:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReqAddLoanDTO.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\DTO\\Req\\ReqAddLoanDTO.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\DTO\\Req\\ReqAddLoanDTO.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\DTO\\Req\\ReqAddLoanDTO.cs",
+              "RelativeToolTip": "PeerLandingFE\\DTO\\Req\\ReqAddLoanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:26:10.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Program.cs",
+              "RelativeDocumentMoniker": "PeerLandingFE\\Program.cs",
+              "ToolTip": "D:\\magang\\training_dotnet\\ProjectBootcampFE\\PeerLandingFE\\Program.cs",
+              "RelativeToolTip": "PeerLandingFE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:12:47.781Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Master Data User";
+    Layout = "_Layout";
+}
+    
+
+<h2>Master Data User</h2>
+
+<button class="btn btn-success mb-3" onclick="showAddUserModal()">Tambah User</button>
+
+<table class="table table-striped" id="userTable">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Balance</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+
+@*Modal to add user*@
+<div class="modal fade" id="addUserModal" tabindex="-1">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addUserModalLabel">Add New User</h5>
+            </div>
+            <div class="modal-body">
+                <form id="addUserForm">
+                    <div class="form-group">
+                        <label for="newUserName">Name</label>
+                        <input type="text" class="form-control" id="newUserName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="newUserEmail">Email</label>
+                        <input type="text" class="form-control" id="newUserEmail" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="newUserRole">Role</label>
+                        <select class="form-control" id="newUserRole" required>
+                            <option value="lender">Lender</option>
+                            <option value="borrower">Borrower</option>
+                        </select>
+                    </div>
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="addUser()">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*Modal to update user*@
+<div class="modal fade" id="editUserModal" tabindex="-1" role="dialog" aria-labelledby="editUserModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editUserModalLabel">Edit User</h5>
+            </div>
+            <div class="modal-body">
+                <form id="editUserForm">
+                    <div class="form-group">
+                        <label for="userName">Name</label>
+                        <input type="text" class="form-control" id="userName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="userRole">Role</label>
+                        <select class="form-control" id="userRole" required>
+                            <option value="lender">Lender</option>
+                            <option value="borrower">Borrower</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="userBalance">Balance</label>
+                        <input type="number" class="form-control" id="userBalance" required>
+                    </div>
+                    <input type="hidden" id="userId" />
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="updateUser()">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+ @* section Scripts{
+       <script src="~/js/mstUser.js"></script>
+       <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+   } *@
+
+<script src="~/js/mstUser.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
+

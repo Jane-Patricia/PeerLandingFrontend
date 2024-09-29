@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Master Data User";
+    Layout = "_LayoutLender";
+}
+
+<div class="container mt-4">
+    <h2>Homepage Lender</h2>
+
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">Current Balance</h5>
+            <p class="card-text" id="lenderBalance"></p>
+        </div>
+    </div>
+</div>
+<button class="btn btn-primary ms-3" onclick="balanceModal()">Add Balance</button>
+
+@*Modal to udpate balance*@
+<div class="modal fade" id="udpateBalanceModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="udpateBalanceModalLabel">Update Balance</h5>
+            </div>
+            <div class="modal-body">
+                <form id="addUserForm">
+                    <div class="form-group">
+                        <label for="updatedBalance">Balance</label>
+                        <input type="number" class="form-control" id="updatedBalance" required>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="updateBalance()">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/lender.js"></script>

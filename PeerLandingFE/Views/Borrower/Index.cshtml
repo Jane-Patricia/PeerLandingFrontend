@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Homepage Borrower";
+    Layout = "_LayoutBorrower";
+}
+
+<div class="container mt-4">
+    <h2>Homepage Borrower</h2>
+    <div class="card mb-4">
+        <div class="card-body"> 
+            <h5 class="card-title">Current Balance</h5>
+            <p class="card-text" id="borrowerBalance"></p>
+        </div>
+    </div>
+    <button class="btn btn-primary mb-3" onclick="showAddLoanModal()">Apply Loan</button>
+</div>
+
+@*Modal to udpate balance*@
+<div class="modal fade" id="addLoanModal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addLoanModalLabel">Apply For a Loan</h5>
+            </div>
+            <div class="modal-body">
+                <form id="addLoanForm">
+                    <div class="form-group">
+                        <label for="loanAmountLabel">Loan Amount</label>
+                        <input type="number" class="form-control" id="loanAmount" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="interestRateLabel">Interest Rate</label>
+                        <input type="number" class="form-control" id="interestRate" required>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="addLoan()">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2>Table List Request</h2>
+<table class="table table-striped" id="loanListTable">
+    <thead>
+        <tr>
+            <th>Amount</th>
+            <th>Interest Rate</th>
+            <th>Duration</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<script src="~/js/borrower.js"></script>

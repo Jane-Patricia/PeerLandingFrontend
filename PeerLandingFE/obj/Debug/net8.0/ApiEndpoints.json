@@ -1,0 +1,234 @@
+[
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiMstUserController",
+    "Method": "deleteUser",
+    "RelativePath": "Admin/ApiMstUser/deleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiMstUserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "Admin/ApiMstUser/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiMstUserController",
+    "Method": "GetUserById",
+    "RelativePath": "Admin/ApiMstUser/GetUserById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiMstUserController",
+    "Method": "RegisterUser",
+    "RelativePath": "Admin/ApiMstUser/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reqAddUserDto",
+        "Type": "PeerLandingFE.DTO.Req.ReqAddUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiMstUserController",
+    "Method": "updateUser",
+    "RelativePath": "Admin/ApiMstUser/updateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "reqMstUserDto",
+        "Type": "PeerLandingFE.DTO.Req.ReqMstUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiBorrowerController",
+    "Method": "AddLoan",
+    "RelativePath": "Borrower/ApiBorrower/AddLoan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reqAddLoanDTO",
+        "Type": "PeerLandingFE.DTO.Req.ReqAddLoanDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiBorrowerController",
+    "Method": "GetLoans",
+    "RelativePath": "Borrower/ApiBorrower/GetLoans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idBorrower",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idLender",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiBorrowerController",
+    "Method": "GetUserById",
+    "RelativePath": "Borrower/ApiBorrower/GetUserById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiLenderController",
+    "Method": "AccFunded",
+    "RelativePath": "Lender/ApiLender/AccFunded",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reqAccLoan",
+        "Type": "PeerLandingFE.DTO.Req.ReqAccLoan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiLenderController",
+    "Method": "GetLoans",
+    "RelativePath": "Lender/ApiLender/GetLoans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiLenderController",
+    "Method": "GetUserById",
+    "RelativePath": "Lender/ApiLender/GetUserById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiLenderController",
+    "Method": "RepaymentList",
+    "RelativePath": "Lender/ApiLender/RepaymentList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLender",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "borrowerId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PeerLandingFE.Controllers.api.ApiLenderController",
+    "Method": "UpdateUserBalance",
+    "RelativePath": "Lender/ApiLender/UpdateUserBalance",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "reqUpdate",
+        "Type": "PeerLandingFE.DTO.Req.ReqUpdateBalanceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
